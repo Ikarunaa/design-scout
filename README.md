@@ -50,3 +50,7 @@ Ask Claude to design or build a website, or run it by name:
 - `references/brief-template.md`: the design brief format
 - `references/slop-check.md`: the checklist of generic-design tells
 - `design-scout.skill`: the packaged skill
+
+## Licence
+
+MIT. See `LICENSE`.
